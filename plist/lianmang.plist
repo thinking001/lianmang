@@ -19,7 +19,7 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>https://192.168.60.135/appdown/ios/57.png</string>
+                   <string>http://appapi.mgshijie.com/image/DAPP.png</string>
                </dict>
         <dict>
                    <key>kind</key>
@@ -27,20 +27,20 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>https://192.168.60.135/appdown/ios/512.png</string>
+                   <string>http://appapi.mgshijie.com/image/DAPP.png</string>
                </dict>
            </array><key>metadata</key>
            <dict>
                <key>bundle-identifier</key>
                <string>com.mangguoshijie.lianmang.enterprise</string>
                <key>bundle-version</key>
-               <string>1.0.2</string>
+               <string>1.0.3</string>
                <key>kind</key>
                <string>software</string>
                <key>subtitle</key>
                <string>lianmang</string>
                <key>title</key>
-               <string>链芒</string>
+               <string>DAPP</string>
            </dict>
        </dict>
    </array>
